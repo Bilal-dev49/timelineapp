@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242379693775",
+    "project_id": "timeline-4c076",
+    "storage_bucket": "timeline-4c076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242379693775:android:212b0efc0040b7e4ed21ba",
+        "android_client_info": {
+          "package_name": "com.timelineapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsEKcNRoBHj5dEq-HvWaVgqdgwUI18CK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
