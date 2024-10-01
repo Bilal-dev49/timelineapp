@@ -83,4 +83,5 @@ class DefaultFirebaseOptions {
     authDomain: 'timeline-4c076.firebaseapp.com',
     storageBucket: 'timeline-4c076.appspot.com',
   );
+
 }
